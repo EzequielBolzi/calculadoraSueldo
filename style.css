@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+ html{
+    height: 100vh;
+    background-color: rgba(92, 184, 228, 0.5);
+ }
+ h4{
+    padding-left: 5px;
+    padding-top: 15px;
+    text-align: left;
+}
+h3{
+    padding-top: 5px;   
+}
+h2 {
+    text-align: center;
+    padding: 55px;
+
+}
+tr{
+    background-color: rgba(92, 184, 228, 0.5);
+}
+
+#header{
+    background-color: rgb(24, 24, 24);
+    color: #F2F2F2;
+    text-align: center;
+    padding: 25px;
+    
+}
+#formulario{
+    background-color: rgba(92, 184, 228, 0.7);
+}
+
+
+
+#sueldo-form{
+    text-align: center;
+    padding: 55px;
+}
+
+#tabla{
+    padding: 15px;
+    
+}
+
+.sinBorde td {
+    border: 1;
+    border-bottom:1px solid rgba(11, 33, 43, 0.5);
+}
